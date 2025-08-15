@@ -52,6 +52,9 @@ cd BadeBhaiya-AI
 
 ### 2. Install Dependencies
 
+Run setup.bat as administrator for Windows to create setup for this project.
+Then
+
 ```bash
 npm install
 ```
@@ -70,8 +73,6 @@ Then edit `.env` and add your Gemini API key:
 # .env
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
-
-Run setup.bat as administrator for Windows to create setup for this project.
 
 ## 🚀 Usage
 
